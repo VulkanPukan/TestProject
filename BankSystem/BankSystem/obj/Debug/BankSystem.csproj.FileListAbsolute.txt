@@ -1,0 +1,10 @@
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\BankSystem\bin\Debug\BankSystem.dll
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\BankSystem\obj\Debug\BankSystem.dll
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+C:\Users\s24-rp\Desktop\BankSystem\BankSystem\bin\Debug\BankSystem.dll
+C:\Users\s24-rp\Desktop\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\s24-rp\Desktop\BankSystem\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+C:\Users\s24-rp\Desktop\BankSystem\BankSystem\obj\Debug\BankSystem.dll
+C:\Users\s24-rp\Desktop\BankSystem\BankSystem\obj\Debug\BankSystem.pdb

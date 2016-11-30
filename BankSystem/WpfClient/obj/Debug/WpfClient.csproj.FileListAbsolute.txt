@@ -1,0 +1,17 @@
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient.csprojResolveAssemblyReference.cache
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\App.g.cs
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.Cache
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\WCF\BankSystem\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\s24-rp\Desktop\BankSystem\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\s24-rp\Desktop\BankSystem\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\s24-rp\Desktop\BankSystem\WpfClient\obj\Debug\WpfClient.pdb
